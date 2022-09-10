@@ -59,9 +59,7 @@ export default class App extends Component {
                         </Row>
                        <CharacterPage/>
                        <div className='mt30'></div>
-                       <BooksPage/>
-                       <div className='mt30'></div>
-                       <HousesPage/>
+                      
                        {/* <Route path='/' component={() => <h1>Welcome to GOT DB</h1>} exact/>
                         <Route path='/characters' component={CharacterPage} />
                         <Route path='/books' component={BooksPage} exact/>
