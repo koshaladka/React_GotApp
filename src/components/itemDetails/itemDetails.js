@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './itemDetails.css';
-import styled from 'styled-components';
+
 
 
 const Field = ({item, field, label})=> {
